@@ -69,7 +69,7 @@ To install the required libraries, run:
 pip install pandas numpy matplotlib seaborn
 
 
-**Usage**
+## Usage
 Clone the repository or download the dataset.
 Run the Jupyter notebook or Python script to perform the analysis.
 The visualizations will be displayed within the notebook.
