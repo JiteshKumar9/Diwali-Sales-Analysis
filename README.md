@@ -3,25 +3,6 @@
 ## Overview
 This project involves the analysis of Diwali sales data to understand customer behavior and trends. The dataset contains information about customer demographics, products, orders, and sales amounts. The goal of this analysis is to uncover insights related to customer purchasing patterns, including the relationship between gender, age group, marital status, occupation, and product category.
 
-## Dataset
-
-The dataset used for this analysis is the **Diwali Sales Data** CSV file. It contains the following columns:
-User_ID: Unique identifier for the customer
-Cust_name: Customer name
-Product_ID: Product identifier
-Gender: Gender of the customer
-Age Group: Age group of the customer
-Age: Age of the customer
-Marital_Status: Marital status of the customer (0 = Single, 1 = Married)
-State: State where the customer resides
-Zone: Geographical zone of the customer
-Occupation: Occupation of the customer
-Product_Category: Category of the product purchased
-Orders: Number of orders made by the customer
-Amount: Total amount spent by the customer
-Status: (Blank column, dropped)
-unnamed1: (Blank column, dropped)
-
 
 ## Project Structure
 
